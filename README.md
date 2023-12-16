@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zico</h1>
-<h3 align="center">A passionate newbie frontend developer from Norway</h3>
+<h3 align="center">A passionate frontend developer newbie from Norway</h3>
 
 - 🔭 I’m currently working on [Portfolio 1](https://wondrous-semolina-ca284a.netlify.app/)
 
